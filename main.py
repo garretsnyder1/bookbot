@@ -10,7 +10,7 @@ def main():
     word_count = counter(text)
     dict = char_count(text)
     sorted= sorter(dict)
-    print("============ BOOKBOT -v0.02 ============")
+    print("============ BOOKBOT -v0.03 ============")
     print(f"Analyzing book found at {path}...")
     print("----------- Word Count ----------")
     print(f"Found {word_count} total words")
